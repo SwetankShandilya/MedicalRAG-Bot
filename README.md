@@ -28,5 +28,5 @@ The **AI-Powered Health Companion** is a Retrieval-Augmented Generation (RAG)-ba
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/health-ai-companion.git  
-   cd health-ai-companion  
+   git clone https://github.com/SwetankShandilya/MedicalRAG-Bot.git  
+   cd MedicalRAG-Bot
