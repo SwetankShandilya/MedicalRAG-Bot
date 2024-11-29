@@ -8,8 +8,7 @@ The **AI-Powered Health Companion** is a Retrieval-Augmented Generation (RAG)-ba
 ## Features  
 - **Document Loading and Processing**: Extracts data from uploaded PDFs, splits them into manageable chunks, and prepares them for querying.  
 - **ChromaDB Integration**: Efficiently stores document embeddings and metadata for fast and accurate retrieval.  
-- **Custom Prompting**: Uses a carefully crafted prompt template to generate precise answers while avoiding unsupported claims.  
-- **Streamlit Frontend**: User-friendly interface to process PDFs, initialize the database, and interact with the assistant.  
+- **Custom Prompting**: Uses a carefully crafted prompt template to generate precise answers while avoiding unsupported claims.    
 - **LLM Integration**: Powered by the Llama-2 model via the CTransformers library, providing robust language understanding capabilities.  
 
 ---
@@ -19,8 +18,7 @@ The **AI-Powered Health Companion** is a Retrieval-Augmented Generation (RAG)-ba
 - **[HuggingFace Embeddings](https://huggingface.co/)**: Sentence embeddings for document retrieval.  
 - **[ChromaDB](https://www.trychroma.com/)**: Vector store for efficient retrieval.  
 - **[PyPDFLoader](https://github.com/hwchase17/langchain/tree/master/langchain/document_loaders)**: Utility for extracting content from PDF files.  
-- **[CTransformers](https://github.com/marella/ctransformers)**: Lightweight LLM integration.  
-- **[Streamlit](https://streamlit.io/)**: Simplified web application development framework.  
+- **[CTransformers](https://github.com/marella/ctransformers)**: Lightweight LLM integration.   
 
 ---
 
